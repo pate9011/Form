@@ -1,0 +1,21 @@
+body{                                                  /*elements of the body*/
+background-color: #00acee;                           /*chages the background color in the body*/
+font-family: 'Courier New', Courier, monospace;        /*cheanges the font of everything in the body*/
+}
+
+#myForm{                                                /*elements of div id: my form*/
+    max-width: 500px;                            
+    min-width: none;
+    margin: auto;
+    background: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#submitcss{                                                /*elements of div id: submitcss*/
+    background-color: #00acee;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    border-color: #1dbfff;
+    width:100px;
+}
